@@ -853,9 +853,9 @@ export default function Home() {
             </p>
           </div>
 
-          <p className="text-sm text-slate-600">
-            © {new Date().getFullYear()} Mania Sultana. All rights reserved.
-          </p>
+        <p className="text-sm text-slate-400">
+  © 2026 Mania Sultana. All rights reserved.
+</p>
 
         </div>
       </footer>
